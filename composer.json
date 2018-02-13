@@ -1,12 +1,12 @@
 {
-    "name": "amranidev/scaffold-interface",
-    "description": "A Smart CRUD Generator For Laravel",
-    "homepage": "http://github.com/amranidev/scaffold-interface",
-    "keywords": ["laravel", "framework", "files", "scaffod", "CRUD", "crud generator", "crud generators", "scaffoldinterface", "Scaffolding", "Scaffold", "laravel bootstrap", "laravel materialize", "Laravel 5.1", "Laravel 5.2", "amranidev", "Amrani Houssain", "amrnaihoussain", "smart crud generator", "smart generator"],
+    "name": "leyo/jenga",
+    "description": "Build Applications Faster on Laravel",
+    "homepage": "https://github.com/le-yo/jenga.git",
+    "keywords": ["Le-Yo", "Laravel", "RapidLaravel"],
     "license": "MIT",
     "authors": [{
-        "name": "Amrani Houssain",
-        "email": "amranidev@gmail.com"
+        "name": "Leonard Korir",
+        "email": "lenykoskey@gmail.com"
     }],
     "require": {
         "php": ">=7.0",
@@ -35,7 +35,7 @@
         },
         "laravel": {
             "providers": [
-                "Amranidev\\ScaffoldInterface\\ScaffoldInterfaceServiceProvider"
+                "leyo\\ScaffoldInterface\\ScaffoldInterfaceServiceProvider"
             ]
         }
     }
